@@ -4,6 +4,10 @@ class bank
   {
     bal=bal+amt;
   }
+  void withdraw()
+  {
+    bal=bal-amt;
+  }
 }
 
 -------------------------------------------------
