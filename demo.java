@@ -8,6 +8,14 @@ class demo
   {
     c = a-b;
   }
+  void mul
+  {
+    c = a*b;
+  }
+  void div
+  {
+    c = a/b;
+  }
   public static void main()
   {
     s.o.p("Stash testing");
