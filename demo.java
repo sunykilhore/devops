@@ -1,3 +1,13 @@
+class bank
+{
+  void deposit()
+  {
+    bal=bal+amt;
+  }
+}
+
+-------------------------------------------------
+
 class demo
 {
   void ad
