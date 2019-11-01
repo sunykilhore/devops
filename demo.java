@@ -1,4 +1,8 @@
 
+void main()
+{
+  ....new code....
+}
 class demo
 {
   public static void main()
